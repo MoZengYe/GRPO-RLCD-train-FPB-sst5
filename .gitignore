@@ -1,0 +1,13 @@
+# model weights and checkpoints (too large for GitHub)
+models/
+outputs/
+checkpoint-*/
+*.safetensors
+*.distcp
+*.bin
+
+# logs and caches
+wandb/
+__pycache__/
+*.pyc
+.DS_Store
